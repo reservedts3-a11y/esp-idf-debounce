@@ -1,0 +1,2 @@
+# FreeRTOS tick = 1 ms (default 10 ms is too coarse for 5 ms polling in task 4)
+CONFIG_FREERTOS_HZ=1000
